@@ -8,6 +8,8 @@ Revisión de capítulo 1 y redacción para revisión de capítulo.
 
 # SIMULACIONES
 
+## Primero
+![SegmentLocal](life.gif "segment")
 Intentar modelar a un solo agente aquatico en netlogo y ver la integración en un notebook de python. Ya sea con un approach más de cálculo numérico o de machine learning. Liquid Agent encoding.
 
 
